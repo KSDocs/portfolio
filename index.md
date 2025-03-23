@@ -4,7 +4,7 @@ title: "Portfolio"
 
 # Kyle Steven Docuyanan 
 **Unity3D & Unreal Engine Developer | 3D Artist | Game Developer**  
-📍 Canada | 📧 kyledocuyanang@gmail.com | 📞 +1 639-318-8078  
+📧 kyledocuyanang@gmail.com | 📞 +1 639-318-8078  
 
 ## 🚀 Summary  
 Passionate game developer with experience in Unity3D, Unreal Engine 5 (Blueprints), and Blender for 3D modeling. Skilled in interactive education, 2D/3D game development, and VR applications.  
